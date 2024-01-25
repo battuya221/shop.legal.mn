@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themify - WooCommerce Product Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-14 15:37+0000\n"
+"PO-Revision-Date: 2021-10-14 15:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: Монгол\n"
+"Language: mn\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.6.5\n"
+"X-Domain: wpf"
+
+#: includes/class-wpf-list.php:458
+#, php-format
+msgid "%1$s custom post type successfully removed."
+msgstr ""
+
+#: includes/class-wpf-list.php:462
+#, php-format
+msgid "%1$s custom post types successfully removed."
+msgstr ""
+
+#: includes/class-wpf-form.php:484
+msgid "+ Add new"
+msgstr ""
+
+#: admin/class-wpf-admin.php:89 admin/class-wpf-admin.php:90
+msgid "About"
+msgstr ""
+
+#: admin/partials/list.php:21
+msgid "Add new"
+msgstr ""
+
+#: includes/class-wpf-form.php:151
+msgid "Add reset button at bottom"
+msgstr ""
+
+#: includes/class-wpf-form.php:156
+msgid "Add reset button at every field group"
+msgstr ""
+
+#: includes/class-wpf-list.php:195
+msgid "ago"
+msgstr ""
+
+#: includes/class-wpf-form.php:1019 includes/class-wpf-form.php:1152
+#: includes/class-wpf-form.php:1160 includes/class-wpf-form.php:1169
+msgid "All"
+msgstr ""
+
+#: includes/class-wpf-form.php:141
+msgid "Allow field groups toggle-able"
+msgstr ""
+
+#: admin/partials/import.php:38
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/class-wpf-form.php:183 includes/class-wpf-form.php:528
+msgid "AND"
+msgstr ""
+
+#: admin/partials/import.php:23
+msgid "Archive file"
+msgstr ""
+
+#: includes/class-wpf-form.php:516
+msgid "Ascending"
+msgstr ""
+
+#: includes/class-wpf-form.php:1316 admin/partials/tax.php:25
+msgid "Background"
+msgstr ""
+
+#: includes/class-wpf-form.php:1328 admin/partials/tax.php:37
+msgid "Background Image"
+msgstr ""
+
+#: includes/class-wpf-form.php:1282
+msgid "categories"
+msgstr ""
+
+#: includes/class-wpf-utils.php:219
+msgid "Category"
+msgstr ""
+
+#: includes/class-wpf-form.php:550
+msgid "Category Hierarchy"
+msgstr ""
+
+#: includes/class-wpf-form.php:520
+msgid "Checkbox"
+msgstr ""
+
+#: includes/class-wpf-form.php:729
+msgid "Clear"
+msgstr ""
+
+#: includes/class-wpf-form.php:1292
+msgid "Color Icons"
+msgstr ""
+
+#: includes/class-wpf-form.php:625
+msgid "Columns"
+msgstr ""
+
+#: admin/class-wpf-admin.php:222
+#, php-format
+msgid "Couldn't unzip %s"
+msgstr ""
+
+#: includes/class-wpf-form.php:512
+msgid "Count"
+msgstr ""
+
+#: includes/class-wpf-form.php:510
+msgid "Custom Ordering"
+msgstr ""
+
+#: admin/class-wpf-admin.php:244
+msgid "Data could not be loaded"
+msgstr ""
+
+#: includes/class-wpf-list.php:394
+msgid "Date"
+msgstr ""
+
+#: includes/class-wpf-list.php:154
+msgid "Delete"
+msgstr ""
+
+#: includes/class-wpf-list.php:154
+#, php-format
+msgid "Delete Product Filter %s"
+msgstr ""
+
+#: includes/class-wpf-form.php:517
+msgid "Descending"
+msgstr ""
+
+#: includes/class-wpf-form.php:1297
+#, php-format
+msgid "Display %s as color icons"
+msgstr ""
+
+#: includes/class-wpf-form.php:447 includes/class-wpf-form.php:576
+msgid "Display as"
+msgstr ""
+
+#: includes/class-wpf-widget.php:10
+msgid "Display Themify Products Filter Form."
+msgstr ""
+
+#: includes/class-wpf-form.php:1302
+msgid "Display tooltip on icon hover"
+msgstr ""
+
+#: includes/class-wpf-form.php:72
+msgid "Do not show field if empty"
+msgstr ""
+
+#: includes/class-wpf-form.php:99
+msgid "Do not show out of stock products"
+msgstr ""
+
+#: admin/class-wpf-admin.php:310
+msgid "Do you want to delete this module?"
+msgstr ""
+
+#: admin/class-wpf-admin.php:309
+msgid "Do you want to delete this?"
+msgstr ""
+
+#: includes/class-wpf-form.php:284
+msgid "Drop module here"
+msgstr ""
+
+#: includes/class-wpf-form.php:523
+msgid "Dropdown"
+msgstr ""
+
+#: includes/class-wpf-list.php:148
+msgid "Edit"
+msgstr ""
+
+#: includes/class-wpf-list.php:148
+#, php-format
+msgid "Edit Product Filter %s"
+msgstr ""
+
+#: admin/partials/list.php:21
+msgid "Edit Product Filter Form"
+msgstr ""
+
+#: includes/class-wpf-form.php:67
+msgid "Empty Fields"
+msgstr ""
+
+#: includes/class-wpf-form.php:677
+msgid "Enter category ID numbers to exclude (eg. 2, 4, 12)"
+msgstr ""
+
+#: includes/class-wpf-form.php:661
+msgid "Enter category ID numbers to include only (eg. 2, 4, 12)"
+msgstr ""
+
+#: includes/class-wpf-form.php:679
+msgid "Enter tag ID numbers to exclude (eg. 2, 4, 12)"
+msgstr ""
+
+#: includes/class-wpf-form.php:663
+msgid "Enter tag ID numbers to include only (eg. 2, 4, 12)"
+msgstr ""
+
+#: includes/class-wpf-form.php:670
+msgid "Exclude Categories"
+msgstr ""
+
+#: includes/class-wpf-form.php:670
+msgid "Exclude Tags"
+msgstr ""
+
+#: includes/class-wpf-list.php:151
+msgid "Export"
+msgstr ""
+
+#: includes/class-wpf-list.php:151
+#, php-format
+msgid "Export Product Filter %s"
+msgstr ""
+
+#: includes/class-wpf-form.php:318
+msgid "Field Title"
+msgstr ""
+
+#: includes/class-wpf-list.php:393
+msgid "Fields List"
+msgstr ""
+
+#: includes/class-wpf-widget.php:76
+msgid "Form"
+msgstr ""
+
+#: includes/class-wpf-form.php:52
+msgid "Form Title"
+msgstr ""
+
+#: includes/class-wpf-form.php:324
+msgid "Hide field title"
+msgstr ""
+
+#: includes/class-wpf-form.php:1346
+#, php-format
+msgid "Hide original %s labels"
+msgstr ""
+
+#: includes/class-wpf-form.php:108
+msgid "Hide Pagination"
+msgstr ""
+
+#: includes/class-wpf-form.php:81
+msgid "Hide product sorting"
+msgstr ""
+
+#: includes/class-wpf-form.php:90
+msgid "Hide result product count"
+msgstr ""
+
+#: includes/class-wpf-form.php:623
+msgid "Horizontal"
+msgstr ""
+
+#: includes/class-wpf-form.php:43
+msgid "Horizontal Layout"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themify.me"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themify.me/themify-product-filter"
+msgstr ""
+
+#: includes/class-wpf-form.php:1324 admin/partials/tax.php:33
+msgid "Icon Text"
+msgstr ""
+
+#: includes/class-wpf-form.php:513
+msgid "ID"
+msgstr ""
+
+#: admin/partials/import.php:55 admin/partials/list.php:22
+msgid "Import"
+msgstr ""
+
+#: admin/partials/list.php:22
+msgid "Import Product Filter Form"
+msgstr ""
+
+#: admin/partials/import.php:16
+msgid ""
+"Import will overwrite all existed templates. Press OK to continue, Cancel to "
+"stop."
+msgstr ""
+
+#: includes/class-wpf-utils.php:222
+msgid "In Stock"
+msgstr ""
+
+#: includes/class-wpf-form.php:654
+msgid "Include Categories"
+msgstr ""
+
+#: includes/class-wpf-form.php:561
+msgid "Include Children "
+msgstr ""
+
+#: includes/class-wpf-form.php:654
+msgid "Include Tags"
+msgstr ""
+
+#: includes/class-wpf-form.php:47
+msgid "Infinite Scroll"
+msgstr ""
+
+#: admin/partials/import.php:19
+msgid "Json file"
+msgstr ""
+
+#: includes/class-wpf-form.php:58 includes/class-wpf-form.php:630
+msgid "Layout"
+msgstr ""
+
+#: includes/class-wpf-form.php:521
+msgid "Links"
+msgstr ""
+
+#: includes/class-wpf-utils.php:433 includes/class-wpf-form.php:48
+msgid "Load More"
+msgstr ""
+
+#: includes/class-wpf-form.php:1306
+msgid "Loading..."
+msgstr ""
+
+#: includes/class-wpf-form.php:589
+msgid "Logic"
+msgstr ""
+
+#: includes/class-wpf-form.php:188
+msgid "Logical Relationship Between Taxonomies"
+msgstr ""
+
+#: includes/class-wpf-form.php:463
+#, php-format
+msgid "Min price is %s. Max  price is %s"
+msgstr ""
+
+#: includes/class-wpf-form.php:524
+msgid "Multi Select"
+msgstr ""
+
+#: includes/class-wpf-form.php:511
+msgid "Name"
+msgstr ""
+
+#: includes/class-wpf-form.php:532
+msgid "No"
+msgstr ""
+
+#: includes/class-wpf-form.php:243
+msgid "No Products Found Message"
+msgstr ""
+
+#: includes/class-wpf-form.php:245 includes/class-wpf-form.php:725
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: includes/class-wpf-form.php:161
+msgid "No reset button"
+msgstr ""
+
+#: includes/class-wpf-utils.php:223
+msgid "On Sale"
+msgstr ""
+
+#: includes/class-wpf-form.php:184 includes/class-wpf-form.php:527
+msgid "OR"
+msgstr ""
+
+#: includes/class-wpf-form.php:602
+msgid "Order"
+msgstr ""
+
+#: includes/class-wpf-form.php:94
+msgid "Out of Stock"
+msgstr ""
+
+#: includes/class-wpf-form.php:103
+msgid "Pagination"
+msgstr ""
+
+#: includes/class-wpf-form.php:112
+msgid "Pagination Option"
+msgstr ""
+
+#: themify-wc-product-filter.php:39
+msgid "Plugin Changelogs"
+msgstr ""
+
+#: includes/class-wpf-utils.php:221
+msgid "Price"
+msgstr ""
+
+#: includes/class-wpf-form.php:466 includes/class-wpf-form.php:475
+msgid "Price from"
+msgstr ""
+
+#: includes/class-wpf-form.php:85 includes/class-wpf-form.php:537
+msgid "Product Count"
+msgstr ""
+
+#: admin/class-wpf-admin.php:75
+msgid "Product Filters"
+msgstr "Бүтээгдэхүүн хайх"
+
+#: includes/class-wpf-form.php:76
+msgid "Product Sorting"
+msgstr ""
+
+#: includes/class-wpf-utils.php:217
+msgid "Product Title"
+msgstr ""
+
+#: includes/class-wpf-form.php:130
+msgid "Products Per Page"
+msgstr ""
+
+#: includes/class-wpf-form.php:522
+msgid "Radio"
+msgstr ""
+
+#: includes/class-wpf-form.php:456
+msgid "Range"
+msgstr ""
+
+#: includes/class-wpf-form.php:169
+msgid "Reset"
+msgstr ""
+
+#: includes/class-wpf-form.php:145
+msgid "Reset Button"
+msgstr ""
+
+#: includes/class-wpf-form.php:167
+msgid "Reset Label"
+msgstr ""
+
+#: includes/class-wpf-form.php:214
+msgid "Result Page Template"
+msgstr ""
+
+#: admin/partials/form.php:10
+msgid "Save"
+msgstr ""
+
+#: includes/class-wpf-form.php:173
+msgid "Scroll To Result"
+msgstr ""
+
+#: includes/class-wpf-form.php:963
+msgid "Search"
+msgstr ""
+
+#: includes/class-wpf-form.php:1333 admin/partials/tax.php:42
+msgid "Select Image"
+msgstr ""
+
+#: includes/class-wpf-list.php:392
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-wpf-form.php:687
+msgid "Show \"All\" option"
+msgstr ""
+
+#: includes/class-wpf-form.php:555
+msgid "Show category hierarchy"
+msgstr ""
+
+#: includes/class-wpf-form.php:692
+msgid "Show option to list all terms"
+msgstr ""
+
+#: includes/class-wpf-form.php:542
+msgid "Show product counts"
+msgstr ""
+
+#: includes/class-wpf-form.php:225
+msgid "Show product filter form on search result page."
+msgstr ""
+
+#: includes/class-wpf-form.php:210
+msgid "Show results on a different page"
+msgstr ""
+
+#: includes/class-wpf-form.php:209
+msgid "Show results on the same page"
+msgstr ""
+
+#: includes/class-wpf-utils.php:218
+msgid "SKU"
+msgstr ""
+
+#: includes/class-wpf-form.php:452
+msgid "Slider"
+msgstr ""
+
+#: includes/class-wpf-form.php:46
+msgid "Standard Pagination"
+msgstr ""
+
+#: includes/class-wpf-form.php:494
+msgid "Step"
+msgstr ""
+
+#: includes/class-wpf-utils.php:224
+msgid "Submit Button"
+msgstr ""
+
+#: includes/class-wpf-utils.php:220
+msgid "Tag"
+msgstr ""
+
+#: includes/class-wpf-form.php:373
+msgid "Template successfully updated"
+msgstr ""
+
+#: includes/class-wpf-form.php:1320 admin/partials/tax.php:29
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-wpf-form.php:238
+msgid ""
+"The result page must have archive products displaying (it will swap the "
+"existing products with the result products)."
+msgstr ""
+
+#. Author of the plugin
+msgid "Themify"
+msgstr ""
+
+#. Name of the plugin
+msgid "Themify - WooCommerce Product Filter"
+msgstr ""
+
+#: includes/class-wpf-widget.php:16
+msgid "Themify Products Filter"
+msgstr "Бүтээгдэхүүн хайх"
+
+#: themify-wc-product-filter.php:88
+msgid ""
+"Themify WooCommerce Product Filter requires the WooCommerce plugin. Please "
+"install and activate WooCommerce first, then activate this plugin."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin allows you to create unlimited product filters for WooCommerce. "
+"Users can refine product search by applying multiple filters/conditions such "
+"as categories, tags, price, in-stock, on-sale, and even attributes such as "
+"colors and sizes."
+msgstr ""
+
+#: includes/class-wpf-list.php:391
+msgid "Title"
+msgstr ""
+
+#: includes/class-wpf-widget.php:72
+msgid "Title:"
+msgstr ""
+
+#: includes/class-wpf-form.php:468 includes/class-wpf-form.php:477
+msgid "to"
+msgstr ""
+
+#: includes/class-wpf-form.php:136
+msgid "Toggle Field Groups"
+msgstr ""
+
+#: includes/class-wpf-form.php:624
+msgid "Vertical"
+msgstr ""
+
+#: includes/class-wpf-form.php:42
+msgid "Vertical Layout"
+msgstr ""
+
+#: themify-wc-product-filter.php:39
+msgid "View Changelogs"
+msgstr ""
+
+#: admin/partials/list.php:20
+msgid "WooCommerce Product Filters"
+msgstr ""
+
+#: includes/class-wpf-form.php:178 includes/class-wpf-form.php:531
+msgid "Yes"
+msgstr ""
+
+#: admin/class-wpf-admin.php:257
+#, php-format
+msgid "You can import files only with extensions %s"
+msgstr ""
+
+#: includes/class-wpf-form.php:491
+#, php-format
+msgid "You can set step like 0.001 or 0.01 or 1, Max step is %s"
+msgstr ""

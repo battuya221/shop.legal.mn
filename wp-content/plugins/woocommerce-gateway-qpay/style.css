@@ -1,0 +1,15 @@
+.payment_method_qpay_gateway .qpay_holder  {
+    text-align: center;
+}
+
+.payment_method_qpay_gateway .qpay_holder .qpay-warning {
+    color: red;
+}
+
+.payment_method_qpay_gateway img.qpay-qr {
+    width: 400px;
+    min-height: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}

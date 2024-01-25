@@ -1,0 +1,4 @@
+[18-Jul-2021 19:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/citycomputer/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/citycomputer/public_html/wp-content/themes/twentyseventeen/404.php on line 13
